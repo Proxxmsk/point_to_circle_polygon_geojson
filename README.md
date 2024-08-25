@@ -1,6 +1,6 @@
-# point_to_circle_polygon_geojson
+# From points (lat/lon) to GEOJSON circle with radius.
 
-### Python script generated geojson circle from point (lat/lon) and radius.
+#### Python script generated geojson circle from point (lat/lon) and radius.
 
 _Example visualization by folium_
 
