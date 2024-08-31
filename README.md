@@ -1,6 +1,6 @@
 # From points (lat/lon) to GEOJSON circle with radius.
 
-#### Python script generated geojson circle from point (lat/lon) and radius.
+#### Python script generated geojson circle from point (lat/lon) and radius in meters.
 
 _Example visualization by folium_
 
