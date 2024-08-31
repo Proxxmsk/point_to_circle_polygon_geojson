@@ -4,5 +4,5 @@
 
 _Example visualization by folium_
 
-![Example visualization by folium](https://github.com/badboyka/point_to_circle_polygon_geojson/blob/main/example_folium.png)
+![Example visualization by folium](https://github.com/badboyka/point_to_circle_polygon_geojson/blob/main/example_folium_map.png)
 
